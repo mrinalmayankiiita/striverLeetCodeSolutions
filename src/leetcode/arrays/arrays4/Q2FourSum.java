@@ -3,7 +3,7 @@ package leetcode.arrays.arrays4;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Q24Sum {
+public class Q2FourSum {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         Set<List<Integer>> finalResult = new HashSet<>();
         Arrays.sort(nums);
