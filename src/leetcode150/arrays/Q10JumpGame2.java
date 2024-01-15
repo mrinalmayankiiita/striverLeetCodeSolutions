@@ -1,4 +1,4 @@
-package leetcode150;
+package leetcode150.arrays;
 
 public class Q10JumpGame2 {
     public int jump(int[] nums) {

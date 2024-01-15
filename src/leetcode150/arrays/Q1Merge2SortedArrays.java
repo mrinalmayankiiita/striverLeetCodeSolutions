@@ -1,4 +1,4 @@
-package leetcode150;
+package leetcode150.arrays;
 
 public class Q1Merge2SortedArrays {
     public void merge(int[] nums1, int m, int[] nums2, int n) {

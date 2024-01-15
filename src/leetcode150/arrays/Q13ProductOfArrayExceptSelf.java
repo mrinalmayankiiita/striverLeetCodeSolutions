@@ -1,4 +1,4 @@
-package leetcode150;
+package leetcode150.arrays;
 
 public class Q13ProductOfArrayExceptSelf {
     public int[] productExceptSelf(int[] nums) {

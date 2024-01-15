@@ -1,4 +1,4 @@
-package leetcode150;
+package leetcode150.arrays;
 
 public class Q5MajorityElement {
     public int majorityElement(int[] nums) {

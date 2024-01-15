@@ -1,4 +1,4 @@
-package leetcode150;
+package leetcode150.arrays;
 
 public class Q2RemoveElement {
     public int removeElement(int[] nums, int val) {

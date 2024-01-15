@@ -1,4 +1,4 @@
-package leetcode150;
+package leetcode150.arrays;
 
 public class Q4RemoveDuplicateElements2 {
     public int removeDuplicates(int[] nums) {

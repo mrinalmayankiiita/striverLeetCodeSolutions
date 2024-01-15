@@ -1,4 +1,4 @@
-package leetcode150;
+package leetcode150.arrays;
 
 import java.util.*;
 import java.util.stream.Collectors;
