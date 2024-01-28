@@ -1,4 +1,5 @@
 import leetcode150.arrays.Q15Candy;
+import leetcode150.arrays.Q21ReverseWordsInString;
 
 import java.util.Arrays;
 
@@ -11,8 +12,9 @@ public class Main {
 
         Q15Candy q15Candy = new Q15Candy();
 
-        int[] arr = new int[]{4,2,1};
-        int candy = q15Candy.candy(arr);
+        Q21ReverseWordsInString q21ReverseWordsInString = new Q21ReverseWordsInString();
+
+        q21ReverseWordsInString.reverseWords("    the sky is blue   ");
 
         // Press Ctrl+R or click the green arrow button in the gutter to run the code.
 

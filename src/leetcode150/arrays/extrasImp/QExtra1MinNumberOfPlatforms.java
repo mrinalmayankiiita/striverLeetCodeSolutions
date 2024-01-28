@@ -1,4 +1,4 @@
-package leetcode150.arrays;
+package leetcode150.arrays.extrasImp;
 
 import java.util.Arrays;
 
