@@ -1,5 +1,9 @@
 import leetcode150.arrays.Q15Candy;
 import leetcode150.arrays.Q21ReverseWordsInString;
+import leetcode150.hashmap.Q4ValidAnagrams;
+import leetcode150.slidingwindow.Q1MinimumSizeSubArraySum;
+import leetcode150.slidingwindow.Q3SubstringWIthConcatination;
+import leetcode150.slidingwindow.Q4MinimumWindowSubstring;
 
 import java.util.Arrays;
 
@@ -10,11 +14,8 @@ public class Main {
         // Press Opt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
 
-        Q15Candy q15Candy = new Q15Candy();
-
-        Q21ReverseWordsInString q21ReverseWordsInString = new Q21ReverseWordsInString();
-
-        q21ReverseWordsInString.reverseWords("    the sky is blue   ");
+        Q4ValidAnagrams q3SubstringWIthConcatination = new Q4ValidAnagrams();
+        q3SubstringWIthConcatination.isAnagram1("anagram", "nagaram");
 
         // Press Ctrl+R or click the green arrow button in the gutter to run the code.
 
